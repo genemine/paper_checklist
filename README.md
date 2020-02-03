@@ -34,4 +34,4 @@ Any sentence from other resources such as papers/books etc that you want to borr
 
 ## 6. Proofreading:
 (1) This is the most important point! <br>
-(2) Please read the whole paper WORD BY WORD at least TWO times. This step would, very likely, help you identify (many) obvious/silly errors, such as types, grammer issues, etc. Correct them.<br>
+(2) Please read the whole paper WORD BY WORD at least TWO times. This step would, very likely, help you identify (many) obvious/silly errors, such as typos, grammer issues, etc. Correct them.<br>
