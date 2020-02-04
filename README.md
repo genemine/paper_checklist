@@ -1,7 +1,7 @@
 # Check list for manuscripts
 ## ************************************************************************
 ## ** 将下面内容打印出来，检查一条就划掉一条 ***
-## ** Please print the check list below and check one by one.    ***
+## ** Print the check list below and check one by one.    ***
 ## ************************************************************************
 
 ## 0. Plagiarism FORBIDDEN
