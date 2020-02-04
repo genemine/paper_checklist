@@ -11,9 +11,9 @@ Any sentence from other resources such as papers/books etc that you want to borr
 (1) Mentioned and discussed in main text<br>
 (2) Figure captions must be self-evident (of sufficient details), meaning that readers can under the figure without referring to the main text. Each subplot (A, B, etc) of the figure should be explained. <br>
 (3) Figures and their captions should be on the same page if possible.<br>
-(3) Font sizes are large enough for easier visualization.<br>
+(3) Font sizes are large enough so that they are legible.<br>
 (4) Always good to have good design.<br>
-** All figures are in correct order**.<br>
+**All figures are in correct order**.<br>
 
 ## 2. Tables:
 (1) Mentioned and discussed in main text<br>
@@ -22,11 +22,11 @@ Any sentence from other resources such as papers/books etc that you want to borr
 
 ## 3. Authors:
 (1) Examine the spellings of author names and affiliations; make sure they are correct.<br>
-(2) Every author should be informed of their authorship.<br>
+(2) Every author should be informed of their authorships.<br>
 
 ## 4. Absctract:
 (1) Follow the style of the target journal.<br>
-(2) Number of words should be less than the word limits.<br>
+(2) Number of words should be less than the <font color="red">word limits</font>.<br>
 
 ## 5. References:
 (1) Follow the style of your target journal.<br>
