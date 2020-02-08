@@ -27,7 +27,7 @@ Any sentence from other resources such as papers/books etc that you want to borr
 **All figures are in correct order**.<br>
 
 ## 4. Tables:
-(1) Mentioned and discussed in main text<br>
+(1) Mentioned and discussed in main text.<br>
 (2) Table titles and tables should be on the same page if possible.<br>
 (3) All tables are in correct order.<br>
 
