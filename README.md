@@ -10,7 +10,9 @@ Any sentence from other resources such as papers/books etc that you want to borr
 ## 1. Authors:
 (1) Examine the spellings of author names.<br>
 (2) Examine affiliations. <br>
-(3) Every author should be informed of their authorships.<br>
+(3）Including email address for every corresponding author.<br>
+(4) Every author should be informed of their authorships.<br>
+
 
 ## 2. Absctract:
 (1) Follow the **style** of the target journal.<br>
